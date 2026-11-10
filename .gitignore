@@ -8,4 +8,4 @@ __pycache__/
 *.log
 .pytest_cache/
 .idea/
-.vscode/
+.vscode/.DS_Store
